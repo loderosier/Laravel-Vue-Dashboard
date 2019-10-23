@@ -1,11 +1,11 @@
-# Laravel Vue Light Bootstrap Dashboard 
+# Laravel Vue Dashboard 
 
-> Laravel Admin dashboard based on light bootstrap dashboard UI template + vue-router
+> Laravel Admin dashboard with Vue front end
 
 ![](public/static/Dashboard.PNG)
 ## :rocket: Getting started
 
-Laravel Vue Light Bootstrap Dashboard is built on top of Bootstrap 4, Vuejs and Vue-router. To get started do the following steps:
+Laravel Vue Admin Dashboard is built on top of Bootstrap 4, Vuejs and Vue-router. To get started do the following steps:
 1. Download or clone  the project
 2. Make sure you have node.js (https://nodejs.org/en/) installed
 3. ren .evn.example to .env 
